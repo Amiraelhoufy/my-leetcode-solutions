@@ -1,5 +1,7 @@
 # my-leetcode-solutions
-This repo contains my Leetcode Solutions! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+- This repo contains my Leetcode Solutions! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+- Useful resource for a well-organized collection of common LeetCode patterns [leetcode-patterns](https://seanprashad.com/leetcode-patterns/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics

@@ -8,15 +8,14 @@ class Solution {
     for(int num: nums){
       set.add(num);
     }
-    
-    int missingNumber=0;
+
     for(int i=0; i<= nums.length;i++){
       if(!set.contains(i)){
-        missingNumber=i;
-        break;
+            return i; 
       }
     }
-    return missingNumber;
+
+    return -1; // should not happens
     
     }
 }

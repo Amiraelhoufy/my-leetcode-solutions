@@ -2,8 +2,7 @@ class Solution {
     public int longestConsecutive(int[] nums) {
         
 
-    if(nums == null || nums.length ==0) return 0;
-    if(nums.length<1) return 1;
+    if (nums == null || nums.length == 0) return 0;
 
     int longestSequence=1;
     int currentSequence=1;

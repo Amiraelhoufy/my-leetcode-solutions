@@ -49,6 +49,6 @@ public static int missingNumberUsingTriangularFormula(int[] nums) {
 
 ## Summary
 
-1. **Using HashSet**: using a HashSet >> Time Complexity &rarr; **O(n)** & Space Complexity &rarr; **O(n)**
+1. **Using HashSet**: Time Complexity &rarr; **O(n)** & Space Complexity &rarr; **O(n)**
 2. **Using Triangle Formula**: Time Complexity &rarr; **O(n)** & Space Complexity &rarr; **O(1)** as it doesn't require any storage
  

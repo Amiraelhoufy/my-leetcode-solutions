@@ -8,11 +8,13 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

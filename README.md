@@ -10,16 +10,19 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +31,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

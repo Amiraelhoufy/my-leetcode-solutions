@@ -32,7 +32,7 @@ public static int missingNumber(int[] nums){
    - Time complexity &rarr; O(n)
    - Space Complexity  &rarr; O(1)
      
- ![Triangle Formula](assets/Triangular-Numbers.jpg)
+ ![Triangle Formula](../assets/Triangular-Numbers.jpg)
 
 ```java
 public static int missingNumberUsingTriangularFormula(int[] nums) {

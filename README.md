@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -49,4 +50,12 @@
 | ------- |
 | [0136-single-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

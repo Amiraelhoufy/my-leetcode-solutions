@@ -31,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Union Find
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

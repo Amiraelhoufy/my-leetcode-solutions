@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Union Find
 |  |
@@ -45,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amiraelhoufy/my-leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
